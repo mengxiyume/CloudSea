@@ -1,4 +1,4 @@
 #pragma once
 
-#include<easyx.h>
+#include<graphics.h>
 #include"../SDL/include/SDL/SDL.h"
